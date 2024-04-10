@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://i.giphy.com/0PFICapNR8kDVwoaRy.webp" width="480" /> <img src="https://i.giphy.com/geYwtodB9AiI0.webp" width="500" />
+
 ## About Nexhub
 
 NexHub is a GitHub organization specializing in aggregating and developing open-source projects for mobile development. 
