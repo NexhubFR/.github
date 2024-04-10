@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://i.giphy.com/0PFICapNR8kDVwoaRy.webp" width="480" /> <img src="https://i.giphy.com/geYwtodB9AiI0.webp" width="500" />
+<img src="https://i.giphy.com/0PFICapNR8kDVwoaRy.webp" width="280" /> <img src="https://i.giphy.com/geYwtodB9AiI0.webp" width="290" />
 
 ## About Nexhub
 
