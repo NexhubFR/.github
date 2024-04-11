@@ -2,7 +2,7 @@
 
 ## About Nexhub
 
-NexHub is a GitHub organization specializing in aggregating and developing open-source projects for mobile development. 
+NexHub is a GitHub organization specializing in aggregating and developing open-source projects. 
 
 Our goal is to offer a diverse portfolio of projects utilizing a variety of languages and frameworks.
 
